@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1 style="color:red;">arey darling, free ga evaru cheptharu ra classes..money pampu!</h1>
+		<h1 style="color:red;">Ni abba, weekend kada party kavali....</h1>
 	</body>
 </html>
